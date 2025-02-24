@@ -100,3 +100,6 @@ If this project becomes out of date, here are the fundamentals behind what is ha
     ```
 1. Get started building your p5.js work!
 
+# Credits
+
+* `Inconsolata` font included for demonstration purposes; [Inconsolata font license](https://www.fontsquirrel.com/license/Inconsolata).
