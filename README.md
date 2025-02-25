@@ -11,6 +11,7 @@ Features::
 
 1. Copy the template to your github.
 1. Run `pnpm install`
+1. Run `pnpm dev`
 1. Start coding in `main.ts`!
 
 ### Changing package managers
